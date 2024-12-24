@@ -1,6 +1,0 @@
-streamlit==1.27.2
-numpy==1.23.5
-catboost==1.2
-pandas==1.5.3
-
-
